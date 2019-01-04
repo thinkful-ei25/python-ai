@@ -23,7 +23,35 @@ numpy pandas, sklearn, plot
 pull requests are welcome and feel free to add to the 
 in progress project
 
-##Process to get to income predictor
+## Process to get to income predictor
 
-##data reprocosser
+## data reprocosser
 ![Alt text](datapre.jpg "dataPreProcessor")
+
+
+## iris images
+
+![Alt text](irisimg.jpg "Iris Images")
+
+## label encoding
+
+![Alt text](label_encod.jpg "Label Encoding")
+
+## logistic regression
+
+![Alt text](logregres.jpg "logistic regression")
+
+## naive Bayes 1 and 2 pre and post
+
+![Alt text](naive1.jpg "Naive 1")
+
+![Alt text](naive2.jpg "Naive 2")
+
+## snippit output of prediction
+
+![Alt text](INCOME.jpg "income prediction")
+
+
+
+
+
